@@ -39,14 +39,14 @@ Modified Dijkstra + max-heap for throughput maximization; Bitmask DP with anchor
 **Efficient Nearby Search** *(IIT Delhi, 2023)*  
 2D nearest-neighbor search using layered range trees with fractional cascading — query complexity from O(n log n) to O(log²n + k), 60% latency reduction on benchmarks.
 
-**Movie Recommendation System** *(Self Project, 2023)*  
-Content-based recommendation engine using TF-IDF and cosine similarity for personalized suggestions. Built feature extraction and similarity measurement pipelines to improve recommendation relevance.
-
 **Digital Circuit Implementation** *(IIT Delhi, 2022)*  
 Programmed multiplexers and sequence generators in Verilog using logic gates and self-implemented flip-flops. Simulated Synchronous Gray-Code and Ring counters using SR and D Flip-Flops on a CPLD board.
 
 **Collision Simulations** *(IIT Delhi, 2022)*  
 Efficient high-frequency collision handling for up to 1 million objects using min-heaps. Tracked object positions and velocities post-collision with O(1) state retrieval after successive impacts.
+
+**Movie Recommendation System** *(Self Project, 2023)*  
+Content-based recommendation engine using TF-IDF and cosine similarity for personalized suggestions. Built feature extraction and similarity measurement pipelines to improve recommendation relevance.
 
 ---
 
